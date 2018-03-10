@@ -1,0 +1,65 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    height: 100%;
+}
+
+body {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "helvetica neue", helvetica, "hiragino sans gb", arial, "\5FAE\8F6F\96C5\9ED1", "\5B8B\4F53", sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    color: #333;
+    background: #FFFFFF;
+}
+
+.wrap {
+    margin-top: 180px;
+}
+
+.login-wrap {
+    background: #ffffff;
+    -webkit-animation: bounceIn 600ms linear;
+    -moz-animation: bounceIn 600ms linear;
+    -o-animation: bounceIn 600ms linear;
+    animation: bounceIn 600ms linear;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+    -moz-opacity: 0.9;
+    padding: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 0 0 10px #666;
+}
+
+.login-wrap h1 {
+    font-size: 30px;
+    margin: 10px 0 20px;
+}
+
+.logo {
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+
+.copyright {
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    padding: 10px;
+    left: 50px;
+    bottom: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.copyright a {
+    color: #fff;
+    text-decoration: none;
+}

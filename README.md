@@ -1,1 +1,33 @@
 # Thinkcmf5_plugins
+===
+
+收集的一些thinkcmf5的插件，有部分是自己开发的，有部分是获取别人的（会有备注）
+
+## 插件列表
+
+1. [后台操作日志](#project1)
+	在Thinkcmf官网的插件上面找到的。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/143.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
+
+2. [幻灯片后台登录](#project2)
+	在Thinkcmf官网的插件上面找到的，后台背景切换运用的是[backstretch.js](https://github.com/jquery-backstretch/jquery-backstretch)。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/143.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
+
+3. [阿里云手机验证注册](#project3)【原创】
+	根据原有的手机插件结合阿里云消息服务改的。[github地址](https://github.com/hisoccer/Thinkcmf5_plugins)
+
+4. [鼠标吸附效果](#project4)
+	在Thinkcmf官网的插件上面找到的，其实这个很简单，只是在网页底部加上[canvas-nest.min.js](https://github.com/hustcc/canvas-nest.js)，一款开源的鼠标吸附js。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/141.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
+
+5. [后台和客帝国背景登录](#project5)
+	在Thinkcmf官网的插件上面找到的，[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/112.html)
+
+6. [自动生成数据字典](#project6)
+	在Thinkcmf官网的插件上面找到的。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/115.html),
+
+7. [时尚的分享效果](#project7)
+	在Thinkcmf官网的插件上面找到的，[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/142.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
+
+8. [前台页面雪花降落效果](#project8)
+	在Thinkcmf官网的插件上面找到的，效果感觉不理想，页面会晃动。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/115.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
+
+9. [自定义404错误页面](#project9)
+	在Thinkcmf官网的插件上面找到的，需要自己写页面样式。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/85.html)
