@@ -26,8 +26,10 @@
 7. [时尚的分享效果](#project7)
 	在Thinkcmf官网的插件上面找到的，[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/142.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
 
-8. [前台页面雪花降落效果](#project8)
+8. [前台页面雪花降落效果](#project8)【不推荐】
 	在Thinkcmf官网的插件上面找到的，效果感觉不理想，页面会晃动。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/115.html),[github地址](https://github.com/wzxaini9/ThinkCMF-plugins)
 
 9. [自定义404错误页面](#project9)
 	在Thinkcmf官网的插件上面找到的，需要自己写页面样式。[thinkcmf链接](https://www.thinkcmf.com/appstore/plugin/85.html)
+
+<a name="project1">后台操作日志</a>
